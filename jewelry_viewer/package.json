@@ -1,0 +1,15 @@
+{
+  "name": "Jewelry-Viewer",
+  "main": "main.html",
+  "window": {
+    "show": true,
+    "frame": true,
+    "toolbar": true
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "scripts": {
+    "start": "nw ."
+  }
+}
