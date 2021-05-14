@@ -8,5 +8,8 @@
   },
   "webkit": {
     "plugin": true
+  },
+  "scripts": {
+    "start": "nw ."
   }
 }
